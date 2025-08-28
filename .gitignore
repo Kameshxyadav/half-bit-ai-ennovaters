@@ -1,0 +1,25 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.pub-cache/
+.flutter-plugins*
+.melos_tool/
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/release/
+
+# iOS / macOS
+**/Pods/
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+macos/Flutter/GeneratedPluginRegistrant.*
+
+# IDE & misc
+*.iml
+.idea/
+.vscode/
+.metadata

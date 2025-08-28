@@ -1,0 +1,10 @@
+hi|Hello! How are you?
+hello|Hi there! How are you doing?
+how are you|I’m fine, thanks! What about you?
+what is your name|I’m your AI chat companion!
+bye|Goodbye! See you later!
+thank you|You’re welcome!
+what is the weather today|It’s sunny today! ☀️
+how is the weather|The weather is great today!
+i am sad|Oh no 😢, I hope things get better!
+i am happy|That’s great! 😄
