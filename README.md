@@ -1,9 +1,9 @@
 **-------------------------- Your Project README.md should start from here -----------------------------**
 # Samsung EnnovateX 2025 AI Challenge Submission
-- **Problem Statement** - *(Must exactly match one of the nine Samsung EnnovateX AI Challenge Problem Statements)*
-- **Team name** - *(As provided during the time of registration)*
-- **Team members (Names)** - *Member 1 Name*, *Member 2 Name*, *Member 3 Name*, *Member 4 Name*
-- **Demo Video Link** - *(Upload the Demo video on Youtube as a public or unlisted video and share the link. Google Drive uploads or any other uploads are not allowed.)*
+- **Problem Statement** - *Building the Untethered, Always-On AI Companion*
+- **Team name** - *Ennovaters*
+- **Team members (Names)** - *Kamesh yadav*, *Abhinab*, *Lahari*, *Sachin prakash*
+- **Demo Video Link** - *https://youtu.be/snxva80mNSo*
 
 ### Project Artefacts
 - **Technical Documentation** - [Docs](./docs) *(All technical details must be written in markdown files inside the docs folder in the repo)*
